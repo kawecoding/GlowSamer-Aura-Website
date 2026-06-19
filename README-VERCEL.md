@@ -10,3 +10,4 @@ Arquivos prontos para subir no Vercel.
 4. Use a pasta raiz do projeto como diretorio de publicacao.
 
 O arquivo principal do site e `index.html`.
+Deploy update
